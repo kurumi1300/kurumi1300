@@ -17,3 +17,7 @@ Blockchain developer and open-source contributor focused on the Ethereum ecosyst
 ## GitHub Stats
 
 ![kurumi1300's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurumi1300&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurumi1300&layout=compact&theme=radical)
