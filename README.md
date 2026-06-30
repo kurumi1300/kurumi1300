@@ -18,4 +18,6 @@ Blockchain developer and open-source contributor focused on the Ethereum ecosyst
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kurumi1300&theme=radical)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kurumi1300&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurumi1300&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kurumi1300&theme=redical)
