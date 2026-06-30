@@ -13,3 +13,7 @@ Blockchain developer and open-source contributor focused on the Ethereum ecosyst
 
 [![Twitter](https://img.shields.io/badge/Twitter-@Kurumi1300-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Kurumi1300)
 [![GitHub](https://img.shields.io/badge/GitHub-kurumi1300-181717?style=flat&logo=github&logoColor=white)](https://github.com/kurumi1300)
+
+## GitHub Stats
+
+![kurumi1300's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurumi1300&show_icons=true&theme=radical)
